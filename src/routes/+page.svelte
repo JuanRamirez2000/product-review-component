@@ -101,7 +101,7 @@
 	@media screen and (min-width: 480px) {
 		main {
 			height: 90%;
-			width: 35%;
+			width: 40%;
 			display: flex;
 			flex-direction: row;
 		}
@@ -114,7 +114,7 @@
 		}
 
 		div.image {
-			height: 500px;
+			height: 550px;
 			width: 50%;
 			background-image: url('/assets/images/image-product-desktop.jpg');
 
@@ -124,7 +124,7 @@
 			width: 50%;
 			display: flex;
 			flex-direction: column;
-			gap: 2.5rem;
+			gap: 3rem;
 		}
 	}
 </style>
